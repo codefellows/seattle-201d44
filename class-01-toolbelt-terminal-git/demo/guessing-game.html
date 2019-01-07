@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to 201</title>
+  </head>
+  <body>
+    <h1>Guessing Game</h1>
+    <script>
+      var user = prompt('what is your name?');
+      console.log(user);
+
+      alert('Hi there ' + user + 'I\'m going to ask you a question.');
+
+      var answer = prompt(user + ' this is a yes/no question.  Please answer with Y or N.  Do you love coding?');
+      console.log(answer);
+
+      if (answer === 'Y') {
+        alert('yay!  i also love coding!');
+      } else {
+        alert('that sucks, coding is cool');
+      }
+    </script>
+  </body>
+</html>
