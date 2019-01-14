@@ -37,7 +37,7 @@ function clue(who, where, weapon) {
 }
 
 // Called with three arguments
-// clue('Sarah', 'Ada Lovelace Classroom', 'CSS');
+// clue('Madi', 'Ada Lovelace Classroom', 'CSS');
 
 // We can also call this in the console with different arguments.
 
