@@ -22,7 +22,7 @@
 
 ![ermahgerd.jpg](ermahgerd.jpg)
 
-- Sam & Nicholas will start doing 15-minute 1:1 (well, 2:1) meetings with students this afternoon. Visit [this link](https://sam-201d35.youcanbook.me/) to sign up for a time. Please be sure to write down your time, since the site does not support you being able to go back and look.
+- Sam (& sometimes maybe Dario) will start doing 15-minute 1:1 (well, maybe 2:1) meetings with students this afternoon. Visit [this link](https://sam-301d44.youcanbook.me/) to sign up for a time. Please be sure to write down your time, since the site does not support you being able to go back and look.
 
 ## Readings
 
