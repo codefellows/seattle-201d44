@@ -33,8 +33,8 @@
   - 3:15 Dana
   - 3:30 Elizabeth
   - 3:45 Vanessa
-  - 4:30
-  - 4:45
+  - 4:30 Jon
+  - 4:45 Aaron
 
 - We know it's been a hard few days, but the class is doing very well. Sam, Dario, and the TAs are extremely pleased with how you all help one another.
 - It's not to soon to start thinking about final projects. Let's have a brief conversation about that today, because a week from tomorrow you're going to be divided up into teams, and  a week from tomorrow starting planning on your projects.
