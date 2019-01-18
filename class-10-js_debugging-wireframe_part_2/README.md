@@ -4,12 +4,20 @@
 
 *Just one break today; we will stop at 11:45am so you can get lunch before Partner Power Hour*
 
+
 **- [CSS Wireframe Exercise](#wireframe)** (45-60 minutes)
-`10-minute break`
+
+- `10-minute break`
+
 **- [Code Review](#debugging)** (30 minutes)
+
 **- [JS Debugging](#debugging)** (30 minutes)
-`30-minute break`
+
+- `30-minute break`
+
 **- 12:15pm: [Partner Power Hour](https://www.eventbrite.com/e/partner-power-hour-tale-of-two-searches-tickets-55041779444)**
+
+---
 
 - Description of Partner Power Hour from #seattle in Slack: *"One of our very own grads, Heath Smith was scrappy, and proved his determination to get hired as a Software Engineer this past summer, so he will be joining us with his hiring manager at Liquid Planner, Jon Snelling, to talk about what can be learned for future grads seeking their first  post-grad opportunity."*
 
@@ -19,7 +27,7 @@
   - 2:15 Leo
   - 3:00 Billy
   - 3:45 Adi
-  - 4:00 Billy?
+  - 4:00 Cory
   - 4:15 Andy
   - 4:30 Shukri
   - 4:45 Harry
