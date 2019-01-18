@@ -40,7 +40,13 @@
 
 **- Let's look at some prior 201 projects!**
 
-**- Lab** will be published after PPH is complete; it is due at 6:00pm. This is a paired and time-boxed "A for effort" kind of lab: just do the best you can with it in the time available.
+  - [Welcome to Seattle](https://peterbreen.github.io/welcome-to-seattle)
+  - [Note Fellows](https://clee46.github.io/note-fellows)
+  - [Slash Whooo?](http://wohlfea.github.io/cup-game)
+  - [Algorithms](https://ztaylor2.github.io/algorithm-teacher)
+  - [BroNacho](http://bronacho.com)
+
+**- Lab** will be published after PPH is complete; it is due at ***5:00pm***. This is a paired and time-boxed "A for effort" kind of lab: just do the best you can with it in the time available.
 
 <a id="wireframe"></a>
 ## CSS Wireframe Exercise
