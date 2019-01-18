@@ -27,7 +27,7 @@
   - 2:15 Leo
   - 3:00 Billy
   - 3:45 Adi
-  - 4:00 Billy?
+  - 4:00 Cory
   - 4:15 Andy
   - 4:30 Shukri
   - 4:45 Harry
