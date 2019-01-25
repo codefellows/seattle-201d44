@@ -7,7 +7,7 @@
 
 ## Schedule for Today
 
-- **9:00-10:15ish**
+**9:00-10:15ish**
 
 - 201 review topics?
 - 301 preview
