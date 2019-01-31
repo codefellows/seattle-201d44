@@ -1,21 +1,26 @@
 # Class 19 -  Project Week: Milestone 4
 ## Presentation Prep
 
-1. Test your presentation:
- * As your teams now have MVP in place and are focusing more on layout, design, and stretch goals today, take a few minutes at some point to take a look at your app on a projector/screen setup. You'll be glad you did. It's often a moment of, "THAT'S not what we want it to look like!" We'll strive to have the instructor/TAs do this with each team the day before presentations.
+Your team should practice their presentation prior to the final presenatation day. This is typically scheduled by the instructional team. During the practice presentation, the instructional team will provide constructive feedback about the flow of the presenation and appearance of the application.
 
-2. Plan your presentation... have a script:
- * Who will give an intro, and tell us about the problem domain and your team's solution? In other words, MC?
- * Who will talk about the functionality, and walk us through the app?
- * Who will show us the code when you are showing off a technical challenge you overcame?
- * Individually, speak around 3 minutes on the challenges that arose during project week, how your team overcame them, how you contributed to the solution, and what you learned, what you enjoyed working on, etc.
+_Why:_
+> If there are any issues in functionality or appearance, it is better to catch them ahead of time. This is also an opportunity to view the application as projected on the screens. Evaluate the larger screen size, color changes due to the projector, and overall impact on the user's experience. The practice round will also allow the team to work on the flow of the presenatation as speaking roles are passed from one member to another.
 
-3. Rehearse your presentation:
- * Decide whose machine will present the app on the projector, test it, and then test a second computer… just in case.
- * Set a timer and take turns talking through your topics. Know how much time each segment will take.
+Decide whose computer to use during the presentation and bring that computer to the practice session. Make sure you have any cables or adaptors needed. Test this same computer in the main event space. Test a backup computer as well, just in case.
 
-4. Overall presentation script:
-* 5 minutes - Intro/demo
-* 3 minutes - Technical challenge in the code
-* 3 minutes per person (12 minutes total, more or less)
-* Q&A
+The presentation should be approximately 15 minutes long, including some time at the end for questions. Present from the deployed site. Each member should introduce themselves with their personal pitch. The "About Us" page provides a great backdrop for this portion of the presentation.
+
+Each member of the team should have a speaking part. It is okay to use notecards if you are nervous about forgetting what to talk about. Some of the areas to discuss include:
+- An introduction of the project and the problem domain, including the team's solution
+- A demonstration of the application's functionality
+- The team's approach to planning and communication throughout the week
+- A technical obstacle or two and how those obstacles were overcome
+- A portion of the final application that each team member is particularly proud of
+
+In general, do not show code during the presentation unless the audience asks to see it. Have a code editor open just in case though.
+
+The appropriate dress code is business casual - not too formal and not to casual.
+
+In addition to the scheduled practice session, the team is encouraged to continue to practice on their own. Keep track of the time and adjust accordingly. Practice with the microphone (or holding something) to feel comfortable with holding it and practice passing the microphone between team members as you switch speaking roles.
+
+Speak clearly and do not use slang or profanity. Take it seriously and be professional.
